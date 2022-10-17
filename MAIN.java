@@ -15,8 +15,10 @@ public class MAIN {
 
 
             System.out.println("<---------------------------------------------------->");
-            System.out.println("Program Menentukan Luas dan Keliling Lingkaran");
+            System.out.println("Program Menentukan Keliling Lingkaran");
             System.out.println("<---------------------------------------------------->");
+                
+            System.out.println(" ");
 
 
             System.out.println("Masukkan jari -jari lingkaran: ");
